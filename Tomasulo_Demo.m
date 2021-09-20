@@ -133,6 +133,3 @@ uit.FontSize = 20;
 pause(0);
 set(uit,'ColumnWidth',{50});
 set(uit,'ColumnName',{'Issued','Read Operands','Execution Completed','Write'});
-figure();
-k = imread('Screenshot_2.png');
-imshow(k);
